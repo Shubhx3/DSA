@@ -90,3 +90,26 @@ public class TwoSum {
         System.out.println("Indices: " + Arrays.toString(result3)); // Output: [0, 1]
     }
 }
+
+
+// The code is complete and should work correctly for the given problem statement.
+
+
+// The other approach to solve this problem is to use a brute force method, which has a time complexity of O(n^2) and is not efficient for large inputs.
+// The brute force method involves using two nested loops to check all pairs of numbers in the array and see if they add up to the target.
+// This approach is not recommended for large inputs as it can be very slow and inefficient.
+// However, for small inputs, it can be a simple and straightforward solution.
+
+
+// Here is the brute force method for reference:
+
+// public int[] twoSum(int[] nums, int target) {
+//     for (int i = 0; i < nums.length; i++) {
+//         for (int j = i + 1; j < nums.length; j++) {
+//             if (nums[i] + nums[j] == target) {
+//                 return new int[] { i, j };
+//             }
+//         }
+//     }
+//     throw new IllegalArgumentException("No two sum solution");
+// }
