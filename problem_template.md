@@ -1,12 +1,13 @@
 # Problem Title
 
 ## Problem Link
+
 [LeetCode - Problem Name](https://leetcode.com/problems/problem-link/)
 
 ## Problem Description
 <!-- Copy the problem description here -->
 
-```
+```plaintext
 Example 1:
 Input: ...
 Output: ...
@@ -26,6 +27,7 @@ Explanation: ...
 3. ...
 
 ## Complexity Analysis
+
 - Time Complexity: O(...)
 - Space Complexity: O(...)
 
@@ -33,11 +35,13 @@ Explanation: ...
 <!-- Include the solution code or reference the file -->
 
 ### Java Solution
+
 ```java
 // Java implementation
 ```
 
 ### Python Solution
+
 ```python
 # Python implementation
 ```

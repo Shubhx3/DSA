@@ -27,7 +27,7 @@ Java/
 ├── 001_two_sum/
 │   ├── README.md
 │   └── Solution.java
-├── 002_valid_anagram/
+├── 002_group_anagram/
 │   ├── README.md
 │   └── Solution.java
 └── ...
